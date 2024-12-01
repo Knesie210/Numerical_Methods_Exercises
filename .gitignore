@@ -5,7 +5,7 @@ env/
 .vscode/
 
 # Ignorar archivos de configuración específicos del sistema operativo
-.DS_Store # Para macOS
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

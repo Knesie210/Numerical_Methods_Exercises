@@ -1,3 +1,11 @@
+# Ignorar el entorno virtual (carpeta venv)
+env/
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
+
+# Ignorar archivos de configuración específicos del sistema operativo
+.DS_Store # Para macOS
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
